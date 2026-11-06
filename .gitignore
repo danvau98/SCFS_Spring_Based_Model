@@ -13,7 +13,6 @@ Subprocess
 /b*
 /c*
 /f*
-/F*
+/F*/c*
 /r*
 /s*
-/R*/P*

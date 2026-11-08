@@ -14,4 +14,6 @@ Subprocess
 /f*
 /F*/c*
 /r*
-/s*
+/se*
+/si*_ON
+/sw*

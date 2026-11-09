@@ -11,7 +11,7 @@ Subprocess
 
 .DS_Store
 /b*
-/f*
+/f*params*_O*
 /F*/c*
 /r*
 /se*
